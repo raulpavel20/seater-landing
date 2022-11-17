@@ -1185,6 +1185,7 @@ p {
 @media (max-width: 767px) {
   .about-section .about-img-2 .shape.shape-1 {
     width: 70%;
+    right: 0px;
   }
 }
 
@@ -1208,6 +1209,7 @@ p {
 @media (max-width: 767px) {
   .about-section .about-img-2 .shape.shape-2 {
     bottom: 30px;
+    right: 0px;
   }
 }
 
